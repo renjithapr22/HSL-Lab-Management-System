@@ -1,0 +1,1 @@
+<img src="{{ asset('images/lab-logo.png') }}" alt="Lab Logo" style="width:80px;height:80px;" class="h-12 w-auto">
